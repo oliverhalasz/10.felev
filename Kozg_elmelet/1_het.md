@@ -13,6 +13,7 @@ A demarkáció problémáját is tárgyalja, azaz hogy hogyan különböztethet�
 Popper munkája nagymértékben befolyásolta a tudományos módszertanról és a tudományfilozófiáról való gondolkodást, hangsúlyozva a kritikai vizsgálat és a nyitottság fontosságát a tudományos kutatásban.
 
 ## Kuhn
+
 Thomas S. Kuhn "A tudományos forradalmak szerkezete" című munkája szintén mérföldkő a tudományfilozófiában, amely jelentős változásokat hozott a tudomány fejlődésének és a tudományos paradigma változásoknak az értelmezésében. Kuhn könyve a tudomány történelmi és társadalmi dimenzióira helyezi a hangsúlyt, amivel szembe megy a korábbi, inkább lineáris és kumulatív tudományos fejlődésről alkotott felfogásokkal.
 
 Kuhn különbséget tesz a tudomány normál és forradalmi szakaszai között. A normál tudomány az a szakasz, amikor a tudományos közösség egy uralkodó paradigma, vagyis egy általánosan elfogadott elméleti keretrendszer alapján dolgozik. Ebben a szakaszban a kutatások célja a paradigmat megerősíteni és kiterjeszteni, azaz a paradigma által még meg nem magyarázott jelenségekre is kiterjedő magyarázatokat keresni. A normál tudomány fázisa inkrementális, vagyis apró lépésekkel történő fejlődést jelent, mely során a tudósok rejtélyek megoldásán dolgoznak a meglévő tudományos kereteken belül.
@@ -26,6 +27,7 @@ Kuhn szerint a paradigmaváltás általában nem racionális, hanem inkább egyf
 Kuhn munkája így nem csupán az egyes tudományos felfedezések magyarázatát kínálja, hanem a tudomány történelmének egy átfogóbb, dinamikusabb és komplexebb értelmezését nyújtja, ami nagy hatással volt a tudományos kutatásokról és a tudományok történetének tanulmányozásáról alkotott későbbi elképzelésekre.
 
 ## Lakatos Imre
+
 Lakatos Imre "A tudomány története és annak racionális rekonstrukciója" című munkája a tudományfilozófiában egy sajátos szintézist hoz létre, amely egyesíti és továbbfejleszti Popper falszifikacionizmusát és Kuhn paradigmaváltásra vonatkozó elméletét. Lakatos egyik legjelentősebb hozzájárulása a tudományfilozófiához a "tudományos kutatási programok" fogalmának bevezetése és a tudomány fejlődésének ezen kereten belüli magyarázata.
 
 Lakatos szerint a tudomány nem egyszerű sorozata a feltevéseknek és azoknak az ellenőrzéseinek, mint ahogy Popper állította, és nem is a paradigmák szigorúan elválasztott sorozata, ahogy Kuhn javasolta. Ehelyett Lakatos úgy véli, hogy a tudomány fejlődése kutatási programok együttes működésén keresztül történik, amikben a tudósok a magelv és a védőöv köré csoportosulnak.
