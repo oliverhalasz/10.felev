@@ -42,3 +42,7 @@ Lakatos tehát egy olyan keretet nyújtott a tudományos tevékenység számára
 
 Ez mi a franc?
 És ez mi a franc?
+
+```python
+print("Hello World")
+```
