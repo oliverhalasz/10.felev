@@ -13,6 +13,7 @@ A demarkáció problémáját is tárgyalja, azaz hogy hogyan különböztethet�
 Popper munkája nagymértékben befolyásolta a tudományos módszertanról és a tudományfilozófiáról való gondolkodást, hangsúlyozva a kritikai vizsgálat és a nyitottság fontosságát a tudományos kutatásban.
 
 ## Kuhn
+
 Thomas S. Kuhn "A tudományos forradalmak szerkezete" című munkája szintén mérföldkő a tudományfilozófiában, amely jelentős változásokat hozott a tudomány fejlődésének és a tudományos paradigma változásoknak az értelmezésében. Kuhn könyve a tudomány történelmi és társadalmi dimenzióira helyezi a hangsúlyt, amivel szembe megy a korábbi, inkább lineáris és kumulatív tudományos fejlődésről alkotott felfogásokkal.
 
 Kuhn különbséget tesz a tudomány normál és forradalmi szakaszai között. A normál tudomány az a szakasz, amikor a tudományos közösség egy uralkodó paradigma, vagyis egy általánosan elfogadott elméleti keretrendszer alapján dolgozik. Ebben a szakaszban a kutatások célja a paradigmat megerősíteni és kiterjeszteni, azaz a paradigma által még meg nem magyarázott jelenségekre is kiterjedő magyarázatokat keresni. A normál tudomány fázisa inkrementális, vagyis apró lépésekkel történő fejlődést jelent, mely során a tudósok rejtélyek megoldásán dolgoznak a meglévő tudományos kereteken belül.
