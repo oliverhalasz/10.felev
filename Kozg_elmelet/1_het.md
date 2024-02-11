@@ -39,3 +39,5 @@ Lakatos kritikája az abszolút falszifikációval kapcsolatban az, hogy egy-egy
 Lakatos munkásságának központi eleme tehát a tudomány mint olyan kutatási programok összességének szemlélete, ahol a tudományos közösség tagjai nem egy-egy elkülönült elmélet igazolásával vagy cáfolatával foglalkoznak, hanem hosszabb távon részt vesznek egy program megerősítésében vagy ellensúlyozásában. Ebben a felfogásban a tudomány fejlődése nem tört wikárokban vagy precíz megcáfolások sorozataként, hanem inkább a kutatási programok versenyeként és egymást kiegészítő erőfeszítések sorozataként jelenik meg.
 
 Lakatos tehát egy olyan keretet nyújtott a tudományos tevékenység számára, ami lehetővé teszi ennek a dinamikus, versengő, időnként konfliktusos, de mégis előremutató jellegének értelmezését. Ez az elmélet nemcsak az egyes tudományos eredmények relevanciáját helyezi új megvilágításba, hanem a tudományos közösség belső működésére és a tudomány társadalmi beágyazottságára is új nézőpontot nyújt.
+
+Ez mi a franc?
