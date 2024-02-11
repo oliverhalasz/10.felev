@@ -41,3 +41,7 @@ Lakatos munkásságának központi eleme tehát a tudomány mint olyan kutatási
 Lakatos tehát egy olyan keretet nyújtott a tudományos tevékenység számára, ami lehetővé teszi ennek a dinamikus, versengő, időnként konfliktusos, de mégis előremutató jellegének értelmezését. Ez az elmélet nemcsak az egyes tudományos eredmények relevanciáját helyezi új megvilágításba, hanem a tudományos közösség belső működésére és a tudomány társadalmi beágyazottságára is új nézőpontot nyújt.
 
 Ez mi a franc?
+
+```python
+print("Hello World")
+```
